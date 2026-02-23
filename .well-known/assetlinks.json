@@ -1,0 +1,22 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.uniforge.BookShelf",
+      "sha256_cert_fingerprints": [
+        "8D:C6:69:C8:69:81:30:EE:0C:5A:A4:E7:75:EC:46:1F:96:12:2D:A0:E4:58:21:0B:79:AA:B5:69:DB:2B:12:B9"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.uniforge.bookShelf.dev",
+      "sha256_cert_fingerprints": [
+        "F5:89:AB:15:48:24:9D:6D:C4:F8:30:D1:30:7A:87:EA:BA:77:90:64:11:04:9A:E3:CF:1A:CF:4E:A2:F2:76:2B"
+      ]
+    }
+  }
+]
