@@ -7,10 +7,7 @@
     const fromQuery = params.get('book') || params.get('bookId');
     if (fromQuery) return fromQuery;
     const parts = window.location.pathname.split('/').filter(Boolean);
-    const bookIndex = parts.indexOf('book');
-    if (bookIndex >= 0 && parts[bookIndex + 1]) {
-      return parts[bookIndex + 1];
-    }
+    if (parts[0]) return parts[0];
     return '';
   }
 
