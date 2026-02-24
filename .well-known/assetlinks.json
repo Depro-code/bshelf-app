@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.uniforge.BookShelf",
       "sha256_cert_fingerprints": [
-        "8D:C6:69:C8:69:81:30:EE:0C:5A:A4:E7:75:EC:46:1F:96:12:2D:A0:E4:58:21:0B:79:AA:B5:69:DB:2B:12:B9"
+        "8D:C6:69:C8:69:81:30:EE:0C:5A:A4:E7:75:EC:46:1F:96:12:2D:A0:E4:58:21:0B:79:AA:B5:69:DB:2B:12:B9",
+        "87:AD:7D:87:95:EB:F2:B3:1A:C7:7F:19:AF:EA:A3:B3:7D:DE:F1:C2:1F:7E:ED:CA:54:7F:2B:5E:9A:33:E6:39"
       ]
     }
   },
